@@ -7,6 +7,7 @@ I study at Digital Career Institue Web Developing
 * 🌍  I'm based in Munich
 * ✉️  You can contact me at [lampekevin@outlook.com](mailto:lampekevin@outlook.com)
 * 🧠  I'm learning ThreeJS
+* Website: <a href="www.lampe-kevin.com">www.lampe-kevin.com</a>
 
 ### Skills
 
