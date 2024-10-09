@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Kevin
 =============================================================================================================================
 
-I study at Digital Career Institute Web Developing
+I'm about to graduate my Full Stack Web development course at the Digital Career Institute
 -------------------------------------------------
 
 * 🌍  I'm based in Munich
