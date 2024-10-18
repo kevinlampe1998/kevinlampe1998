@@ -6,7 +6,7 @@ I'm about to graduate my Full Stack Web development course at the Digital Career
 
 * 🌍  I'm based in Munich
 * ✉️  You can contact me at [lampekevin@outlook.com](mailto:lampekevin@outlook.com)
-* 🧠  I'm learning ThreeJS
+* 🧠  I'm learning SQL
 * Website: <a href="www.lampe-kevin.com">www.lampe-kevin.com</a>
 
 ### Skills
